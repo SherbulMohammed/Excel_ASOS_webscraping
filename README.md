@@ -8,6 +8,7 @@ Tools used in this project:
 - **Excel** - used power query to clean the data before it could be analysed 
 
 Webscraper was utilised to extract relevant information such as product names, brands, colours etc from the ASOS websites mens latest trainers category 
+
 Excel was used to identify insights related to ASOS mens latest trainers category
 
 *Raw data* 
