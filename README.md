@@ -69,7 +69,25 @@ Some exploratory data analysis was carried out on the data:
 
 **Correlation between average trainer price and stock count:**
 - slight negative correlation which could indicate that brands with higher average trainer prices tend to have lower stock availability
-- There are few outliers in this data as many brands only have 1 trainer in stock: 'The North Face
+- There are few outliers in this data as many brands only have 1 trainer in stock: 'The North Face' brand has only one trainer at stock which costs £110.
+
+*Colour*
+
+(insert colour: black price graph)
+
+Black is seen to be the most popular colour in terms of sales at £2895, followed by White at £1383 and Beige at £889.
+
+(insert top 5 colours total price graph)
+
+Factors why 'Black' is the highest selling colour in the ASOS mens latest trainer category:
+- Black is a neutral colour that can easily match with a wide range of clothing
+- Black is often considered as a classic colour known for its versatility - could be highest selling colour due to its high demand in fashion trends
+- Certain brands like 'Nike'
+
+
+(insert colours and no of trainers graph)
+
+(insert black trainers price graph)
 
 
 
