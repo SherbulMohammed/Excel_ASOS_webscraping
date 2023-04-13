@@ -53,7 +53,12 @@ Some exploratory data analysis was carried out on the data:
 
 - ASOS DESIGN brand has the highest stock count at 16 followed by by Crocs with 12 trainers,  and Vans with 11.
 - This chart analysis indicates that ASOS DESIGN is the brand with the highest stock availabilty in the mens latest trainers category
-- Simple explanation for this could 
+- Simple explanation for this could be ASOS want to push their own brand forward so will ensure it has a high market share in the category
+- Market share: ASOS DESIGN - 11%, Crocs - 8.3% and Vans - 7.6%
+
+*Price*
+
+(insert avg trainer price graph)
 
 
 
