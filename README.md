@@ -18,7 +18,11 @@ Excel was used to identify insights related to ASOS mens latest trainers categor
 
 *Cleaned data*
 
-
+![clean data](https://user-images.githubusercontent.com/129470579/231644172-8f699f7e-7bbe-4d3b-a5e1-cda79df3cbaa.png)
 
 -
+
+
+
+
 
