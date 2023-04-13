@@ -82,10 +82,11 @@ Black is seen to be the most popular colour in terms of sales at £2895, followe
 Factors why 'Black' is the highest selling colour in the ASOS mens latest trainer category:
 - Black is a neutral colour that can easily match with a wide range of clothing
 - Black is often considered as a classic colour known for its versatility - could be highest selling colour due to its high demand in fashion trends
-- Certain brands like 'Nike'
-
+- Certain brands like 'Nike' are known for their black-coloured trainers - Air Force Ones which have a reputation of being popular and stylish in Men's trainers
 
 (insert colours and no of trainers graph)
+
+Black tends to be the most popular colour in terms of stock at 36, followed by white at 16 and grey at 9.
 
 (insert black trainers price graph)
 
