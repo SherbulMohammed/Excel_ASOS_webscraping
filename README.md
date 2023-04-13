@@ -9,3 +9,13 @@ Tools used in this project:
 
 Webscraper was utilised to extract relevant information such as product names, brands, colours etc from the ASOS websites's mens latest trainers category 
 Excel was used to identify insights related to ASOS mens latest trainers category
+
+*Raw data* 
+
+![uncleaned data](https://user-images.githubusercontent.com/129470579/231614484-28fc7165-8420-4805-81dd-e9d38c267a18.png)
+
+- column headings were added during webscraping process
+
+*Cleaned data*
+
+
