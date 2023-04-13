@@ -21,7 +21,10 @@ Excel was used to identify insights related to ASOS mens latest trainers categor
 
 ![clean data](https://user-images.githubusercontent.com/129470579/231644172-8f699f7e-7bbe-4d3b-a5e1-cda79df3cbaa.png)
 
--
+- columns were removed: web-scraper-order, web-scraper, Links-href, pages, Pages-href
+- Links column was split in order to create a new column - 'Price'
+- Price column data type was changed to decimal number
+- Colour column - 'replace values' was used to change all the text to lowercase eg: (WHITE, white, STONE) - (white, white, stone)
 
 
 
