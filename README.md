@@ -60,7 +60,16 @@ Some exploratory data analysis was carried out on the data:
 
 (insert avg trainer price graph)
 
+- Dr. Martens has an average trainer price of £135.99 with 6 trainers in stock
+- Timberland has an average trainer price of £131.88 with 8 trainers in stock
 
+(insert avg trainer pivot table)
+
+(insert avg trainer vs stock count scatter graph)
+
+**Correlation between average trainer price and stock count:**
+- slight negative correlation which could indicate that brands with higher average trainer prices tend to have lower stock availability
+- There are few outliers in this data as many brands only have 1 trainer in stock: 'The North Face
 
 
 
