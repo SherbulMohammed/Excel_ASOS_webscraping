@@ -12,7 +12,7 @@ Excel was used to identify insights related to ASOS mens latest trainers categor
 
 *Raw data* 
 
-
+![raw data](https://user-images.githubusercontent.com/129470579/231616356-1a158714-5764-4b42-80f0-8b94710c0b4e.png)
 
 - column headings were added during webscraping process
 
