@@ -19,16 +19,17 @@ Excel was used to identify insights related to ASOS mens latest trainers categor
 
 - columns were removed: web-scraper-order, web-scraper, Links-href, pages, Pages-href
 
-(insert links column pic)
+![column link and price](https://user-images.githubusercontent.com/129470579/231832540-6d1e6f53-641d-423d-a515-bc2ef92019e9.png)
 
-(insert links column split price)
+![split column pic name and price](https://user-images.githubusercontent.com/129470579/231832761-b7adcda6-a198-4dfe-83e5-32cbb95c26ef.png)
+
 - Links column was split in order to create a new column - 'Price'
 - 'Split Column by Delimiter - £'
 - Column's name was changed to 'Name'
 
 - Price column data type was changed to decimal number
 
-(insert replace values for colour)
+![replaced values colour](https://user-images.githubusercontent.com/129470579/231832891-efd35d98-a044-482b-a981-52f8438d867c.png)
 - Colour column - 'replace values' was used to change all the text to lowercase eg: (WHITE, white, STONE) - (white, white, stone)
 
 *Cleaned data*
@@ -37,8 +38,6 @@ Excel was used to identify insights related to ASOS mens latest trainers categor
 
 
 *Statistics*
-
-(insert statistics image)
 
 Some exploratory data analysis was carried out on the data:
 - average price of a trainer was £79.95
@@ -49,7 +48,7 @@ Some exploratory data analysis was carried out on the data:
 
 *Brand*
 
-(insert brand graph picture)
+![brand stock count](https://user-images.githubusercontent.com/129470579/231833600-73c3c439-9909-4c9f-9504-79bd6f5680a5.png)
 
 - ASOS DESIGN brand has the highest stock count at 16 followed by by Crocs with 12 trainers,  and Vans with 11.
 - This chart analysis indicates that ASOS DESIGN is the brand with the highest stock availabilty in the mens latest trainers category
@@ -58,14 +57,13 @@ Some exploratory data analysis was carried out on the data:
 
 *Price*
 
-(insert avg trainer price graph)
+![avg trainer price graph](https://user-images.githubusercontent.com/129470579/231833665-e841dbd1-03e7-4959-b6a3-782412cc4188.png)
 
 - Dr. Martens has an average trainer price of £135.99 with 6 trainers in stock
 - Timberland has an average trainer price of £131.88 with 8 trainers in stock
 
-(insert avg trainer pivot table)
 
-(insert avg trainer vs stock count scatter graph)
+![avg trainer price scatter graph](https://user-images.githubusercontent.com/129470579/231833750-a0f6981a-860f-4247-9170-ee3e669b1164.png)
 
 **Correlation between average trainer price and stock count:**
 - slight negative correlation which could indicate that brands with higher average trainer prices tend to have lower stock availability
@@ -73,23 +71,24 @@ Some exploratory data analysis was carried out on the data:
 
 *Colour*
 
-(insert colour: black price graph)
+![black price graph](https://user-images.githubusercontent.com/129470579/231833836-7aa9fbc3-8e73-4a62-9289-cf531fea74b6.png)
 
 Black is seen to be the most popular colour in terms of sales at £2895, followed by White at £1383 and Beige at £889.
 
-(insert top 5 colours total price graph)
+![Top 5 colours total price](https://user-images.githubusercontent.com/129470579/231834098-39a58a7f-94df-4982-a84e-4c446587693c.png)
 
 Factors why 'Black' is the highest selling colour in the ASOS mens latest trainer category:
 - Black is a neutral colour that can easily match with a wide range of clothing
 - Black is often considered as a classic colour known for its versatility - could be highest selling colour due to its high demand in fashion trends
 - Certain brands like 'Nike' are known for their black-coloured trainers - Air Force Ones which have a reputation of being popular and stylish in Men's trainers
 
-(insert colours and no of trainers graph)
+![no of trainers each colour](https://user-images.githubusercontent.com/129470579/231834182-cb1026ac-0452-4679-9833-4b12633a1639.png)
 
 Black tends to be the most popular colour in terms of stock at 36, followed by white at 16 and grey at 9.
 
-(insert black trainers price graph)
+![colour brand](https://user-images.githubusercontent.com/129470579/231834602-ce81a859-da08-4a6e-90ec-2a894510de19.png)
 
+For the brand Dr. Martens, the colour 'black' has a higher price point - (sum of all black trainers)
 
 
 
